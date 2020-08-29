@@ -1,0 +1,1 @@
+# customer_management_app_django
